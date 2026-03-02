@@ -1,0 +1,12 @@
+torch
+torchvision
+ultralytics
+tensorflow
+opencv-python
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+requests

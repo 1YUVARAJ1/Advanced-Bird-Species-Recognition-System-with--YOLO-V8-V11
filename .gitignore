@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+bird_env/
+venv/
+env/
+.venv/
+
+# Datasets & Weights
+data/
+src/models/weights/
+*.pt
+*.pth
+*.tgz
+*.zip
+*.tar.gz
+
+# IDE / Jupyter
+.vscode/
+.idea/
+*.ipynb_checkpoints/
+.pytest_cache/
+
+# OS generated
+.DS_Store
+Thumbs.db
