@@ -1,0 +1,199 @@
+species,scientific_name,family,habitat,diet,lifespan,iucn_status
+Black footed Albatross,Phoebastria nigripes,Diomedeidae,Open Oceans / Pelagic,Fish & Cephalopods,40-50 years,Near Threatened
+Laysan Albatross,Phoebastria immutabilis,Diomedeidae,Open Oceans / Pelagic,Cephalopods & Fish,40-50+ years,Near Threatened
+Sooty Albatross,Phoebetria fusca,Diomedeidae,Open Oceans / Pelagic,Cephalopods & Fish,30-40 years,Endangered
+Northern Fulmar,Fulmarus glacialis,Procellariidae,Subarctic Oceans / Pelagic,Fish & Zooplankton,20-40 years,Least Concern
+Crested Auklet,Aethia cristatella,Alcidae,Marine / Rocky Coasts,Zooplankton & Krill,7-10 years,Least Concern
+Least Auklet,Aethia pusilla,Alcidae,Marine / Rocky Coasts,Zooplankton,4-8 years,Least Concern
+Parakeet Auklet,Aethia psittacula,Alcidae,Marine / Pelagic,Zooplankton & Jellyfish,5-10 years,Least Concern
+Rhinoceros Auklet,Cerorhinca monocerata,Alcidae,Marine / Coastal,Small Fish & Krill,10-20 years,Least Concern
+Horned Puffin,Fratercula corniculata,Alcidae,Marine / Coastal Cliffs,Small Fish,10-20 years,Least Concern
+Pigeon Guillemot,Cepphus columba,Alcidae,Coastal Waters / Inshore,Benthic Fish & Crustaceans,10-15 years,Least Concern
+Brandt Cormorant,Urile penicillatus,Phalacrocoracidae,Marine / Coastal,Fish,10-15 years,Least Concern
+Red faced Cormorant,Urile urile,Phalacrocoracidae,Marine / Coastal Cliffs,Fish & Crustaceans,10-15 years,Least Concern
+Pelagic Cormorant,Urile pelagicus,Phalacrocoracidae,Marine / Coastal Cliffs,Fish & Invertebrates,10-15 years,Least Concern
+Frigatebird,Fregata magnificens,Fregatidae,Tropical Coasts / Oceans,Fish (Kleptoparasitism),15-30 years,Least Concern
+Brown Pelican,Pelecanus occidentalis,Pelecanidae,Coastal Waters,Fish & Crustaceans,15-25 years,Least Concern
+White Pelican,Pelecanus erythrorhynchos,Pelecanidae,Inland Lakes / Coastal,Fish,10-15 years,Least Concern
+California Gull,Larus californicus,Laridae,Inland Lakes / Coasts,Omnivore,10-20 years,Least Concern
+Glaucous winged Gull,Larus glaucescens,Laridae,Coastal / Marine,Omnivore,10-20 years,Least Concern
+Heermann Gull,Larus heermanni,Laridae,Coastal / Marine,Fish & Marine Invertebrates,10-15 years,Near Threatened
+Herring Gull,Larus argentatus,Laridae,Coasts / Lakes / Urban,Omnivore,10-20 years,Least Concern
+Ivory Gull,Pagophila eburnea,Laridae,High Arctic Pack Ice,Fish & Carrion,10-15 years,Near Threatened
+Ring billed Gull,Larus delawarensis,Laridae,Lakes / Rivers / Urban,Omnivore,10-15 years,Least Concern
+Slaty backed Gull,Larus schistisagus,Laridae,Coastal / Marine,Omnivore,10-20 years,Least Concern
+Western Gull,Larus occidentalis,Laridae,Pacific Coastal Waters,Omnivore,10-20 years,Least Concern
+Artic Tern,Sterna paradisaea,Laridae,Coastal / Open Ocean,Small Fish & Invertebrates,15-30 years,Least Concern
+Black Tern,Chlidonias niger,Laridae,Inland Wetlands / Coasts,Insects & Small Fish,8-12 years,Least Concern
+Caspian Tern,Hydroprogne caspia,Laridae,Coasts / Large Lakes,Fish,10-20 years,Least Concern
+Common Tern,Sterna hirundo,Laridae,Coasts / Inland Waters,Small Fish,10-15 years,Least Concern
+Elegant Tern,Thalasseus elegans,Laridae,Pacific Coasts,Small Fish,10-15 years,Near Threatened
+Forsters Tern,Sterna forsteri,Laridae,Marshes / Coasts,Small Fish & Insects,10-15 years,Least Concern
+Least Tern,Sternula antillarum,Laridae,Sandy Coasts / Rivers,Small Fish,10-15 years,Least Concern
+Long tailed Jaeger,Stercorarius longicaudus,Stercorariidae,Tundra (Breed) / Pelagic,Lemmings (Breed) / Fish,10-15 years,Least Concern
+Pomarine Jaeger,Stercorarius pomarinus,Stercorariidae,Tundra (Breed) / Pelagic,Lemmings (Breed) / Fish,10-15 years,Least Concern
+Red legged Kittiwake,Rissa brevirostris,Laridae,Bering Sea / Pelagic,Small Fish & Squid,10-15 years,Vulnerable
+Gadwall,Mareca strepera,Anatidae,Wetlands / Lakes,Aquatic Plants & Insects,5-12 years,Least Concern
+Mallard,Anas platyrhynchos,Anatidae,Wetlands / Lakes / Urban,Omnivore,5-15 years,Least Concern
+Hooded Merganser,Lophodytes cucullatus,Anatidae,Forested Ponds / Rivers,Fish & Aquatic Insects,8-12 years,Least Concern
+Red breasted Merganser,Mergus serrator,Anatidae,Coastal Waters / Lakes,Fish,8-12 years,Least Concern
+Eared Grebe,Podiceps nigricollis,Podicipedidae,Shallow Lakes / Marshes,Aquatic Invertebrates,5-10 years,Least Concern
+Horned Grebe,Podiceps auritus,Podicipedidae,Ponds / Coastal Waters,Aquatic Invertebrates,5-10 years,Vulnerable
+Pied billed Grebe,Podilymbus podiceps,Podicipedidae,Freshwater Marshes,Fish & Invertebrates,5-10 years,Least Concern
+Western Grebe,Aechmophorus occidentalis,Podicipedidae,Large Lakes / Coasts,Fish,5-10 years,Least Concern
+Pacific Loon,Gavia pacifica,Gaviidae,Tundra Lakes / Coasts,Fish & Invertebrates,10-20 years,Least Concern
+Belted Kingfisher,Megaceryle alcyon,Alcedinidae,Streams / Lakes / Coasts,Fish & Aquatic Prey,5-10 years,Least Concern
+Green Kingfisher,Chloroceryle americana,Alcedinidae,Shaded Streams / Rivers,Small Fish,5-10 years,Least Concern
+Pied Kingfisher,Ceryle rudis,Alcedinidae,Rivers / Lakes / Estuaries,Fish,5-10 years,Least Concern
+Ringed Kingfisher,Megaceryle torquata,Alcedinidae,Large Rivers / Lakes,Fish,5-10 years,Least Concern
+White breasted Kingfisher,Halcyon smyrnensis,Alcedinidae,Wetlands / Agricultural,Insects / Small Vertebrates,5-10 years,Least Concern
+Groove billed Ani,Crotophaga sulcirostris,Cuculidae,Scrub / Pastures / Edges,Insects & Seeds,5-10 years,Least Concern
+Black billed Cuckoo,Coccyzus erythropthalmus,Cuculidae,Deciduous Woodlands,Insects (Caterpillars),4-8 years,Least Concern
+Mangrove Cuckoo,Coccyzus minor,Cuculidae,Mangrove Swamps,Insects & Small Prey,5-10 years,Least Concern
+Yellow billed Cuckoo,Coccyzus americanus,Cuculidae,Riparian Woodlands,Insects (Caterpillars),4-8 years,Least Concern
+Geococcyx (Roadrunner),Geococcyx californianus,Cuculidae,Deserts / Scrublands,Reptiles / Insects / Birds,5-10 years,Least Concern
+Anna Hummingbird,Calypte anna,Trochilidae,Coastal Scrub / Gardens,Nectar & Insects,5-10 years,Least Concern
+Ruby throated Hummingbird,Archilochus colubris,Trochilidae,Deciduous Woodlands,Nectar & Insects,5-9 years,Least Concern
+Rufous Hummingbird,Selasphorus rufus,Trochilidae,Coniferous Forests,Nectar & Insects,5-9 years,Near Threatened
+Green Violetear,Colibri thalassinus,Trochilidae,Montane Forests / Edges,Nectar & Insects,5-10 years,Least Concern
+Northern Flicker,Colaptes auratus,Picidae,Open Woods / Edges,Ants & Insects,5-10 years,Least Concern
+American Three toed Woodpecker,Picoides dorsalis,Picidae,Boreal / Conifer Forests,Bark Beetles & Insects,5-10 years,Least Concern
+Pileated Woodpecker,Dryocopus pileatus,Picidae,Mature Forests,Carpenter Ants & Wood Borers,8-12 years,Least Concern
+Red bellied Woodpecker,Melanerpes carolinus,Picidae,Deciduous Woodlands,Omnivore,5-10 years,Least Concern
+Red cockaded Woodpecker,Dryobates borealis,Picidae,Mature Pine Savannas,Insects & Arthropods,5-10 years,Near Threatened
+Red headed Woodpecker,Melanerpes erythrocephalus,Picidae,Open Woodlands / Orchards,Omnivore,5-10 years,Least Concern
+Downy Woodpecker,Dryobates pubescens,Picidae,Deciduous Woods / Parks,Insects & Seeds,5-10 years,Least Concern
+Brewer Blackbird,Euphagus cyanocephalus,Icteridae,Open Habitats / Urban,Insects & Seeds,5-10 years,Least Concern
+Red winged Blackbird,Agelaius phoeniceus,Icteridae,Marshes / Wet Fields,Insects & Seeds,5-15 years,Least Concern
+Rusty Blackbird,Euphagus carolinus,Icteridae,Boreal Wetlands / Swamps,Insects & Seeds,5-9 years,Vulnerable
+Yellow headed Blackbird,Xanthocephalus xanthocephalus,Icteridae,Deepwater Marshes,Insects & Seeds,5-11 years,Least Concern
+Bobolink,Dolichonyx oryzivorus,Icteridae,Tallgrass Prairies,Seeds & Insects,5-9 years,Least Concern
+Bronzed Cowbird,Molothrus aeneus,Icteridae,Croplands / Open Brush,Seeds & Insects,5-10 years,Least Concern
+Shiny Cowbird,Molothrus bonariensis,Icteridae,Open Habitats / Edges,Seeds & Insects,5-10 years,Least Concern
+Boat tailed Grackle,Quiscalus major,Icteridae,Coastal Marshes,Omnivore,5-12 years,Least Concern
+Baltimore Oriole,Icterus galbula,Icteridae,Deciduous Woodlands,Fruit & Insects,5-11 years,Least Concern
+Hooded Oriole,Icterus cucullatus,Icteridae,Riparian Woods / Gardens,Nectar & Insects,5-10 years,Least Concern
+Orchard Oriole,Icterus spurius,Icteridae,Open Woods / Orchards,Insects & Fruit,5-10 years,Least Concern
+Scott Oriole,Icterus parisorum,Icteridae,Desert / Yucca Scrub,Insects & Nectar,5-10 years,Least Concern
+Western Meadowlark,Sturnella neglecta,Icteridae,Grasslands / Prairies,Insects & Seeds,5-10 years,Least Concern
+Bay breasted Warbler,Setophaga castanea,Parulidae,Boreal Coniferous Forests,Insects (Spruce Budworms),4-8 years,Least Concern
+Black and white Warbler,Mniotilta varia,Parulidae,Deciduous / Mixed Woods,Insects (Bark Gleaning),5-11 years,Least Concern
+Black throated Blue Warbler,Setophaga caerulescens,Parulidae,Deep Deciduous Forests,Insects & Small Fruit,5-10 years,Least Concern
+Blue winged Warbler,Vermivora cyanoptera,Parulidae,Successional Scrub / Edges,Insects,5-10 years,Least Concern
+Canada Warbler,Cardellina canadensis,Parulidae,Wet Boreal Thickets,Flying Insects,5-9 years,Least Concern
+Cape May Warbler,Setophaga tigrina,Parulidae,Boreal Spruce Forests,Insects & Nectar,4-8 years,Least Concern
+Cerulean Warbler,Setophaga cerulea,Parulidae,Mature Canopy Forests,Insects,4-9 years,Near Threatened
+Chestnut sided Warbler,Setophaga pensylvanica,Parulidae,Successional Scrub,Insects,4-8 years,Least Concern
+Golden winged Warbler,Vermivora chrysoptera,Parulidae,Shrubby Wetlands / Edges,Insects,4-9 years,Near Threatened
+Hooded Warbler,Setophaga citrina,Parulidae,Forest Understory / Ravines,Insects,5-10 years,Least Concern
+Kentucky Warbler,Geothlypis formosa,Parulidae,Dense Forest Understory,Insects (Ground Foraging),5-10 years,Least Concern
+Magnolia Warbler,Setophaga magnolia,Parulidae,Young Coniferous Forests,Insects,5-9 years,Least Concern
+Mourning Warbler,Geothlypis philadelphia,Parulidae,Dense Brush / Clearcuts,Insects,4-8 years,Least Concern
+Myrtle Warbler,Setophaga coronata,Parulidae,Coniferous Woods / Edges,Insects & Berries (Wax),5-10 years,Least Concern
+Nashville Warbler,Leiothlypis ruficapilla,Parulidae,Bog Margins / Open Woods,Insects,5-10 years,Least Concern
+Orange crowned Warbler,Leiothlypis celata,Parulidae,Dense Brush / Chaparral,Insects & Nectar,5-9 years,Least Concern
+Palm Warbler,Setophaga palmarum,Parulidae,Boreal Bogs / Open Scrub,Insects,4-8 years,Least Concern
+Pine Warbler,Setophaga pinus,Parulidae,Pine Forests,Insects & Pine Seeds,5-10 years,Least Concern
+Prairie Warbler,Setophaga discolor,Parulidae,Old Fields / Pine Scrub,Insects,5-10 years,Least Concern
+Prothonotary Warbler,Protonotaria citrea,Parulidae,Wooded Swamps (Cavities),Insects,4-8 years,Least Concern
+Swainson Warbler,Limnothlypis swainsonii,Parulidae,Canebrakes / Swamp Understory,Insects,5-9 years,Least Concern
+Tennessee Warbler,Leiothlypis peregrina,Parulidae,Boreal Bogs / Conifers,Insects & Nectar,4-8 years,Least Concern
+Wilson Warbler,Cardellina pusilla,Parulidae,Wet Thickets / Willows,Flying Insects,4-8 years,Least Concern
+Worm eating Warbler,Helmitheros vermivorum,Parulidae,Wooded Slopes / Ravines,Insects,5-10 years,Least Concern
+Yellow Warbler,Setophaga petechia,Parulidae,Riparian Willows / Wet Edges,Insects,5-10 years,Least Concern
+Northern Waterthrush,Parkesia noveboracensis,Parulidae,Bogs / Wooded Swamps,Aquatic Insects / Snails,5-9 years,Least Concern
+Louisiana Waterthrush,Parkesia motacilla,Parulidae,Forest Streams / Ravines,Aquatic Insects / Snails,5-10 years,Least Concern
+Common Yellowthroat,Geothlypis trichas,Parulidae,Marshes / Wet Brush,Insects,5-10 years,Least Concern
+Black capped Vireo,Vireo atricapilla,Vireonidae,Scrub Oak / Juniper,Insects,4-8 years,Vulnerable
+Blue headed Vireo,Vireo solitarius,Vireonidae,Mixed Forests,Insects & Fruit,5-10 years,Least Concern
+Philadelphia Vireo,Vireo philadelphicus,Vireonidae,Deciduous Edges / Willows,Insects & Fruit,4-9 years,Least Concern
+Red eyed Vireo,Vireo olivaceus,Vireonidae,Deciduous Forest Canopy,Insects,5-10 years,Least Concern
+Warbling Vireo,Vireo gilvus,Vireonidae,Open Deciduous Woods,Insects,5-10 years,Least Concern
+White eyed Vireo,Vireo griseus,Vireonidae,Dense Scrub / Thickets,Insects & Small Fruit,5-10 years,Least Concern
+Yellow throated Vireo,Vireo flavifrons,Vireonidae,Mature Deciduous Canopy,Insects,5-10 years,Least Concern
+Indigo Bunting,Passerina cyanea,Cardinalidae,Brush / Woodland Edges,Seeds & Insects,5-10 years,Least Concern
+Lazuli Bunting,Passerina amoena,Cardinalidae,Scrub / Thickets,Seeds & Insects,5-10 years,Least Concern
+Painted Bunting,Passerina ciris,Cardinalidae,Brush / Woodland Edges,Seeds & Insects,5-10 years,Least Concern
+Cardinal,Cardinalis cardinalis,Cardinalidae,Woodlands / Gardens,Omnivore,5-15 years,Least Concern
+Blue Grosbeak,Passerina caerulea,Cardinalidae,Brush / Edges,Seeds & Insects,5-10 years,Least Concern
+Rose breasted Grosbeak,Pheucticus ludovicianus,Cardinalidae,Deciduous Forests,Seeds & Insects,5-12 years,Least Concern
+Scarlet Tanager,Piranga olivacea,Cardinalidae,Mature Deciduous Forests,Insects & Fruit,5-10 years,Least Concern
+Summer Tanager,Piranga rubra,Cardinalidae,Open Woodlands,Insects (Bees/Wasps),5-10 years,Least Concern
+Eastern Towhee,Pipilo erythrophthalmus,Passerellidae,Brush / Thickets,Seeds & Insects,5-12 years,Least Concern
+Green tailed Towhee,Pipilo chlorurus,Passerellidae,Montane Shrubs / Chaparral,Seeds & Insects,5-10 years,Least Concern
+Dark eyed Junco,Junco hyemalis,Passerellidae,Coniferous / Mixed Woods,Seeds & Insects,5-11 years,Least Concern
+Baird Sparrow,Centronyx bairdii,Passerellidae,Mixed-grass Prairies,Seeds & Insects,3-6 years,Least Concern
+Black throated Sparrow,Amphispiza bilineata,Passerellidae,Deserts / Arid Scrub,Seeds & Insects,4-8 years,Least Concern
+Brewer Sparrow,Spizella breweri,Passerellidae,Sagebrush Scrub,Seeds & Insects,3-8 years,Least Concern
+Chipping Sparrow,Spizella passerina,Passerellidae,Open Woods / Suburbs,Seeds & Insects,5-10 years,Least Concern
+Clay colored Sparrow,Spizella pallida,Passerellidae,Brushy Prairies / Scrub,Seeds & Insects,4-8 years,Least Concern
+Field Sparrow,Spizella pusilla,Passerellidae,Old Fields / Brush,Seeds & Insects,4-8 years,Least Concern
+Fox Sparrow,Passerella iliaca,Passerellidae,Coniferous Thickets,Seeds & Insects,5-10 years,Least Concern
+Grasshopper Sparrow,Ammodramus savannarum,Passerellidae,Open Grasslands,Seeds & Insects,3-7 years,Least Concern
+Harris Sparrow,Zonotrichia querula,Passerellidae,Boreal Scrub / Tundra,Seeds & Insects,5-12 years,Least Concern
+Henslow Sparrow,Centronyx henslowii,Passerellidae,Weedy Meadows,Seeds & Insects,3-6 years,Least Concern
+Le Conte Sparrow,Ammospiza leconteii,Passerellidae,Wet Meadows / Marshes,Seeds & Insects,3-6 years,Least Concern
+Lincoln Sparrow,Melospiza lincolnii,Passerellidae,Wet Boreal Bogs / Brush,Seeds & Insects,4-8 years,Least Concern
+Nelson Sharp tailed Sparrow,Ammospiza nelsoni,Passerellidae,Coastal Marshes / Wet Meadows,Insects & Seeds,3-7 years,Least Concern
+Savannah Sparrow,Passerculus sandwichensis,Passerellidae,Open Grasslands / Tundra,Seeds & Insects,4-8 years,Least Concern
+Seaside Sparrow,Ammospiza maritima,Passerellidae,Coastal Salt Marshes,Marine Invertebrates & Seeds,4-9 years,Least Concern
+Song Sparrow,Melospiza melodia,Passerellidae,Brush / Marshes / Edges,Seeds & Insects,5-11 years,Least Concern
+Vesper Sparrow,Pooecetes gramineus,Passerellidae,Open Prairies / Fields,Seeds & Insects,4-8 years,Least Concern
+White crowned Sparrow,Zonotrichia leucophrys,Passerellidae,Brush / Tundra Edges,Seeds & Insects,5-13 years,Least Concern
+White throated Sparrow,Zonotrichia albicollis,Passerellidae,Boreal Woods / Brush,Seeds & Insects,5-10 years,Least Concern
+Acadian Flycatcher,Empidonax virescens,Tyrannidae,Shaded Forest Streams,Flying Insects,4-8 years,Least Concern
+Great Crested Flycatcher,Myiarchus crinitus,Tyrannidae,Open Woodlands (Cavities),Insects & Fruit,5-12 years,Least Concern
+Least Flycatcher,Empidonax minimus,Tyrannidae,Open Deciduous Woods,Flying Insects,4-8 years,Least Concern
+Olive sided Flycatcher,Contopus cooperi,Tyrannidae,Coniferous Forest Edges,Flying Insects,5-10 years,Near Threatened
+Scissor tailed Flycatcher,Tyrannus forficatus,Tyrannidae,Open Prairies / Savannas,Insects,5-10 years,Least Concern
+Vermilion Flycatcher,Pyrocephalus obscurus,Tyrannidae,Arid Scrub / Riparian,Flying Insects,5-10 years,Least Concern
+Yellow bellied Flycatcher,Empidonax flaviventris,Tyrannidae,Wet Boreal Conifer Bogs,Flying Insects,4-8 years,Least Concern
+Western Wood Pewee,Contopus sordidulus,Tyrannidae,Open Woodlands / Edges,Flying Insects,5-9 years,Least Concern
+Sayornis (Black Phoebe),Sayornis nigricans,Tyrannidae,Near Water / Riparian,Flying Insects,5-10 years,Least Concern
+Tropical Kingbird,Tyrannus melancholicus,Tyrannidae,Open Areas / Urban,Flying Insects,5-10 years,Least Concern
+Gray Kingbird,Tyrannus dominicensis,Tyrannidae,Coastal Scrub / Mangroves,Flying Insects,5-10 years,Least Concern
+Bank Swallow,Riparia riparia,Hirundinidae,Near Water (Riverbanks),Flying Insects,3-7 years,Least Concern
+Barn Swallow,Hirundo rustica,Hirundinidae,Open Fields / Farmland,Flying Insects,4-8 years,Least Concern
+Cliff Swallow,Petrochelidon pyrrhonota,Hirundinidae,Cliffs / Bridges / Urban,Flying Insects,4-8 years,Least Concern
+Tree Swallow,Tachycineta bicolor,Hirundinidae,Open Fields near Water,Flying Insects & Berries,4-9 years,Least Concern
+Chuck will Widow,Antrostomus carolinensis,Caprimulgidae,Pine Woods / Swamps,Flying Insects,5-10 years,Near Threatened
+Nighthawk (Common),Chordeiles minor,Caprimulgidae,Open Country / Urban,Flying Insects,4-8 years,Least Concern
+Whip poor Will,Antrostomus vociferus,Caprimulgidae,Deciduous / Mixed Woods,Flying Insects,4-8 years,Near Threatened
+American Crow,Corvus brachyrhynchos,Corvidae,Open Woods / Farmland,Omnivore,10-15 years,Least Concern
+Fish Crow,Corvus ossifragus,Corvidae,Coastal Marshes / Rivers,Omnivore,10-15 years,Least Concern
+Common Raven,Corvus corax,Corvidae,Varied (Tundra to Desert),Omnivore,10-20 years,Least Concern
+White necked Raven,Corvus albicollis,Corvidae,Mountainous Regions,Omnivore,10-20 years,Least Concern
+Blue Jay,Cyanocitta cristata,Corvidae,Deciduous / Mixed Woods,Omnivore (Acorns),10-15 years,Least Concern
+Florida Jay (Scrub),Aphelocoma coerulescens,Corvidae,Florida Oak Scrub,Omnivore,10-15 years,Vulnerable
+Green Jay,Cyanocorax yncas,Corvidae,Subtropical Thickets,Omnivore,10-15 years,Least Concern
+Clark Nutcracker,Nucifraga columbiana,Corvidae,High-elevation Pines,Pine Seeds & Insects,10-15 years,Least Concern
+Spotted Catbird,Ailuroedus maculosus,Ptilonorhynchidae,Rainforest Understory,Fruit & Insects,8-12 years,Least Concern
+Gray Catbird,Dumetella carolinensis,Mimidae,Dense Brush / Thickets,Insects & Fruit,7-12 years,Least Concern
+Mockingbird,Mimus polyglottos,Mimidae,Suburbs / Open Scrub,Insects & Fruit,8-14 years,Least Concern
+Brown Thrasher,Toxostoma rufum,Mimidae,Thickets / Edges,Insects & Seeds,8-13 years,Least Concern
+Sage Thrasher,Oreoscoptes montanus,Mimidae,Sagebrush Plains,Insects & Berries,5-10 years,Least Concern
+Bewick Wren,Thryomanes bewickii,Troglodytidae,Brush / Open Woodlands,Insects,4-8 years,Least Concern
+Cactus Wren,Campylorhynchus brunneicapillus,Troglodytidae,Desert / Arid Scrub,Insects & Small Fruit,5-10 years,Least Concern
+Carolina Wren,Thryothorus ludovicianus,Troglodytidae,Dense Brush / Suburbs,Insects & Small Vertebrates,5-10 years,Least Concern
+House Wren,Troglodytes aedon,Troglodytidae,Open Woods / Thickets,Insects,4-8 years,Least Concern
+Marsh Wren,Cistothorus palustris,Troglodytidae,Marshes (Cattail/Reed),Insects,4-8 years,Least Concern
+Rock Wren,Salpinctes obsoletus,Troglodytidae,Rocky Canyons / Scree,Insects,4-8 years,Least Concern
+Winter Wren,Troglodytes hiemalis,Troglodytidae,Dense Coniferous Woods,Insects,4-8 years,Least Concern
+Brown Creeper,Certhia americana,Certhiidae,Mature Mixed Forests,Insects (Bark Gleaning),4-8 years,Least Concern
+White breasted Nuthatch,Sitta carolinensis,Sittidae,Mature Deciduous Woods,Insects & Large Seeds,5-10 years,Least Concern
+Horned Lark,Eremophila alpestris,Alaudidae,Bare Ground / Tundra,Seeds & Insects,5-10 years,Least Concern
+American Pipit,Anthus rubescens,Motacillidae,Tundra / Alpine Meadows,Insects & Seeds,4-8 years,Least Concern
+Bohemian Waxwing,Bombycilla garrulus,Bombycillidae,Boreal Forests,Fruit & Insects,5-10 years,Least Concern
+Cedar Waxwing,Bombycilla cedrorum,Bombycillidae,Fruiting Woodlands / Edges,Fruit & Insects,5-10 years,Least Concern
+Loggerhead Shrike,Lanius ludovicianus,Laniidae,Open Pastures / Scrub,Large Insects / Vertebrates,5-10 years,Near Threatened
+Great Grey Shrike,Lanius excubitor,Laniidae,Boreal Bogs / Scrub,Small Mammals / Birds,5-12 years,Least Concern
+Yellow breasted Chat,Icteria virens,Icteriidae,Dense Thickets / Scrub,Omnivore,5-9 years,Least Concern
+Cape Glossy Starling,Lamprotornis nitens,Sturnidae,Woodlands / Bushveld,Insects & Fruit,10-15 years,Least Concern
+Gray crowned Rosy Finch,Leucosticte tephrocotis,Fringillidae,High Alpine Tundra / Snow,Seeds & Insects,5-10 years,Least Concern
+Purple Finch,Haemorhous purpureus,Fringillidae,Coniferous / Mixed Woods,Seeds & Insects,5-12 years,Least Concern
+American Goldfinch,Spinus tristis,Fringillidae,Weedy Fields / Edges,Thistle Seeds / Insects,5-10 years,Least Concern
+European Goldfinch,Carduelis carduelis,Fringillidae,Open Woodlands / Urban,Seeds & Small Insects,5-10 years,Least Concern
+Evening Grosbeak,Hesperiphona vespertina,Fringillidae,Coniferous Woods,Heavy Seeds & Insects,5-12 years,Vulnerable
+Pine Grosbeak,Pinicola enucleator,Fringillidae,Boreal / Subalpine Forests,Seeds & Buds,5-10 years,Least Concern
+House Sparrow,Passer domesticus,Passeridae,Urban / Agricultural,Omnivore,5-10 years,Least Concern
+Tree Sparrow,Passer montanus,Passeridae,Farmland / Light Woods,Seeds & Invertebrates,3-6 years,Least Concern
