@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 **4. Run the Benchmarking Application:**
 ```bash
-streamlit run app_advanced.py
+python run_app.py
 ```
 *(The UI will automatically open in your default browser at `http://localhost:8501`)*
 
