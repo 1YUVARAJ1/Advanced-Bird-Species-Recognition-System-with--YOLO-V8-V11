@@ -180,11 +180,19 @@ def main():
     st.sidebar.markdown("### Benchmarking Settings")
     
     import torch
-    devices = ["cpu"]
-    if torch.cuda.is_available():
-        devices.append("cuda")
+    cuda_available = torch.cuda.is_available()
+    devices = ["cpu", "cuda"]
+    
+    def format_device(d):
+        if d == "cpu": return "CPU"
+        if d == "cuda": return "GPU (CUDA)" if cuda_available else "GPU (CUDA - Missing PyTorch Drivers)"
         
-    device_choice = st.sidebar.selectbox("Compute Device", devices, format_func=lambda x: "GPU (CUDA)" if x == "cuda" else "CPU")
+    device_choice = st.sidebar.selectbox("Compute Device", devices, format_func=format_device)
+    
+    if device_choice == "cuda" and not cuda_available:
+        st.sidebar.warning("⚠️ GPU selected, but PyTorch cannot detect NVIDIA CUDA drivers. Falling back to CPU processing.")
+        device_choice = "cpu"
+        
     pipeline.set_device(device_choice)
     
     yolo_choice = st.sidebar.selectbox(
