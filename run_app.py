@@ -27,9 +27,18 @@ def main():
     # Store the choice as an environment variable so app_advanced.py reads it
     os.environ["STREAMLIT_DEFAULT_DEVICE"] = device
     
+    # Intelligently locate the virtual environment's Streamlit executable
+    venv_streamlit = os.path.join("bird_env", "Scripts", "streamlit.exe")
+    
+    if os.path.exists(venv_streamlit):
+        cmd = [venv_streamlit, "run", "app_advanced.py"]
+    else:
+        # Fallback to the current system python if bird_env isn't found
+        cmd = [sys.executable, "-m", "streamlit", "run", "app_advanced.py"]
+    
     # Call streamlit to launch the app
     try:
-        subprocess.run([sys.executable, "-m", "streamlit", "run", "app_advanced.py"])
+        subprocess.run(cmd)
     except KeyboardInterrupt:
         print("\nApplication gracefully closed by user.")
 
