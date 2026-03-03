@@ -182,21 +182,22 @@ def main():
     import torch
     import os
     cuda_available = torch.cuda.is_available()
-    devices = ["cpu", "cuda"]
     
     env_device = os.environ.get("STREAMLIT_DEFAULT_DEVICE", "cpu")
-    default_device_idx = 1 if env_device == "cuda" else 0
     
-    def format_device(d):
-        if d == "cpu": return "CPU"
-        if d == "cuda": return "GPU (CUDA)" if cuda_available else "GPU (CUDA - Missing PyTorch Drivers)"
-        
-    device_choice = st.sidebar.selectbox("Compute Device", devices, index=default_device_idx, format_func=format_device)
-    
-    if device_choice == "cuda" and not cuda_available:
-        st.sidebar.warning("⚠️ GPU selected, but PyTorch cannot detect NVIDIA CUDA drivers. Falling back to CPU processing.")
+    if env_device == "cuda" and not cuda_available:
+        st.sidebar.warning("⚠️ GPU selected in terminal, but PyTorch cannot detect NVIDIA CUDA drivers. Falling back to CPU processing.")
         device_choice = "cpu"
+        display_device = "GPU (Driver Missing) -> CPU Fallback"
+    elif env_device == "cuda":
+        device_choice = "cuda"
+        display_device = "GPU (CUDA)"
+    else:
+        device_choice = "cpu"
+        display_device = "CPU"
         
+    st.sidebar.markdown(f"**Compute Hardware Backend:** `{display_device}`")
+    
     pipeline.set_device(device_choice)
     
     yolo_choice = st.sidebar.selectbox(
