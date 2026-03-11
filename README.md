@@ -49,4 +49,26 @@ python run_app.py
 *(The UI will automatically open in your default browser at `http://localhost:8501`)*
 
 ---
-**Note:** The `/src/models/weights/efficientnet_b3_best.pth` file is already cached within this repository. No extra training is required! 
+
+## ⚠️ Troubleshooting: Enabling GPU (NVIDIA CUDA) Support
+
+If you run the app, select `[2] GPU`, and receive a warning that PyTorch cannot detect NVIDIA CUDA drivers, your environment installed the CPU-only version of PyTorch by default.
+
+**To enable true GPU acceleration on NVIDIA graphics cards:**
+
+1. **Uninstall the CPU version of PyTorch:**
+```bash
+pip uninstall torch torchvision torchaudio
+```
+2. **Install the CUDA 11.8 version of PyTorch:**
+```bash
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+```
+
+*(Note: The PyTorch CUDA package is nearly 3GB. If your download fails with an `SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC` error due to network fluctuations, run this command to force a longer download timeout duration:)*
+```bash
+pip3 install --default-timeout=1000 torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+```
+
+---
+**Note:** The `/src/models/weights/efficientnet_b3_best.pth` file is already cached within this repository. No extra training is required!
